@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Misbah-Mobin
+- 👀 I’m interested in Compatitive Programming
+- 🌱 I’m currently learning Python
+- 📫 How to reach me misbahmobin600@gmail.com
+- ⚡ Fun fact: I love to eat 🍽️
